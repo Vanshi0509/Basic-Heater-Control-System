@@ -23,4 +23,4 @@ This project simulates a smart heater controller using ESP32 on Wokwi. It includ
 Run it on [Wokwi](https://wokwi.com/projects/430337387035543553).
 
 ## System Design
-See "Part1-SystemDesign.pdf` for block diagram, sensors, and roadmap.
+See 'SystemDesign.pdf` for block diagram, sensors, and roadmap.
