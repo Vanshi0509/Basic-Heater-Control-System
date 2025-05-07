@@ -8,19 +8,19 @@ This project simulates a smart heater controller using ESP32 on Wokwi. It includ
 - BLE state advertising (mocked)
 
 ## Features
-- ✅ States: Idle, Heating, Stabilizing, Target Reached, Overheat
-- ✅ Relay and LED simulate heater ON/OFF
-- ✅ Buzzer for overheat alerts
-- ✅ Feedback LED for heating/stabilizing
-- ✅ FreeRTOS used for real-time task scheduling
-- ✅ BLE simulation via Serial logs
+- States: Idle, Heating, Stabilizing, Target Reached, Overheat
+- Relay and LED simulate heater ON/OFF
+- Buzzer for overheat alerts
+- Feedback LED for heating/stabilizing
+- FreeRTOS used for real-time task scheduling
+- BLE simulation via Serial logs
 
 ## Requirements
 - Wokwi ESP32 Dev Board
 - Arduino Framework
 
 ## Simulation
-Run it on [Wokwi](https://wokwi.com/) using `diagram.json` and `sketch.ino`.
+Run it on [Wokwi](https://wokwi.com/projects/430337387035543553).
 
 ## System Design
-See `Part1-SystemDesign.pdf` for block diagram, sensors, and roadmap.
+See "Part1-SystemDesign.pdf` for block diagram, sensors, and roadmap.
